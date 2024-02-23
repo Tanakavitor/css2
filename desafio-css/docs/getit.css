@@ -218,6 +218,7 @@ textarea.autoresize {
 }
 .card-title {
   margin-top: 0.5rem;
+  margin-left: 0.5rem;
 }
 .card-color-1{
   background-color: #ead3a7;
